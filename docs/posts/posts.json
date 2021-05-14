@@ -1,0 +1,19 @@
+[
+  {
+    "path": "posts/2021-05-14-welcome/",
+    "title": "Welcome",
+    "description": "Thank you for visiting my website! I am very excited to be finishing up the last of my coursework as a PhD student. This summer I plan on helping to manage a team of biomedical and software engineers to develop a computer program that will display, annotate, and automatically analyze images of disease eyes for clinical research studies.",
+    "author": [
+      {
+        "name": "Naomi",
+        "url": {}
+      }
+    ],
+    "date": "2021-05-14",
+    "categories": [],
+    "contents": "\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-05-14T09:07:03-04:00",
+    "input_file": {}
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "Research Projects",
+      "description": "Below are desriptions of my most recent projects and corresponding articles.",
+      "author": [],
+      "contents": "\nMachine Learning Prediction or Cornea Transplant Outcome\nWe quantified over 190 novel imaging and physiology-related features from corneal EC images and used them to train and test machine learning algorithms to predict future outcomes of cornea transplants. The results were compared to the current state-of-the-art metrics for quantitative analysis.\nProceeding\nDeep Learning Segmentation of Corneal Endothelial Cell (EC) Images\nI utilized various softwares including AMIRA, ImageJ, GIMP, and MATLAB to reduce varying illumination gradients of EC images. After pre-processing images, the deep neural network U-Net was implemented in Python to perform image based cell segmentations. In order to clean up the segmentation predictions, a post-processing pipeline developed in MATLAB was applied to generate binary segmentations of cells and their borders.\nPublication\n\n\n\n",
+      "last_modified": "2021-05-14T09:09:06-04:00"
+    },
+    {
+      "path": "blog.html",
+      "title": "Blog",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-05-14T09:09:06-04:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Naomi Joseph",
+      "author": [],
+      "contents": "\n\n          \n          \n          Naomi Joseph\n          \n          \n          Home\n          About\n          Blog\n          ☰\n          \n          \n      \n        \n          \n            \n              \n            \n              Naomi Joseph\n            \n            \n              \n                \n                    \n                      \n                        LinkedIn\n                      \n                    \n                  \n                                  \n            \n          \n        \n        \n        \n          \n            \n            Bio\n            I am a PhD candidate studying biomedical engineering at Case Western Reserve University. My research focuses on developing machine learning and deep learning software to analyze ophthalmic images, or images taken of the eye. My main project entails predicting future outcomes of cornea transplants. More recently, my lab and our collaborators have ventured into the field of Dry Eye Disease to design new metrics for defining the disease progression of Meibomian Gland Dysfunction.\n            Outside of research I enjoy staying active by running, biking, hiking, weightlifting, and I am always up for the challenge of trying to cook a new recipe.\n            \n            \n            Education\n            Case Western Reserve University | Cleveland, OH\n            Ph.D. in Biomedical Engineering | September 2018 - Present\n            The University of Pittsburgh | Pittsburgh, PA\n            B.S. in Chemical Engineering | September 2014 - April 2018\n            \n            \n            Experience\n            The Whole Kid | High School STEM Tutor | April 2020 - Present\n            EQT | Productions Field Engineering Intern | May - August 2016\n            \n            \n            CV\n            CV\n            \n            \n            Contact\n            Email: nmj14@case.edu\n            269-832-2868\n            \n          \n        \n      \n    \n\n    \n      \n        \n          \n            \n              \n            \n              Naomi Joseph\n            \n            \n              \n                \n                                    \n                    \n                      LinkedIn\n                    \n                  \n                                  \n              \n            \n            \n              \n              Bio\n              I am a PhD candidate studying biomedical engineering at Case Western Reserve University. My research focuses on developing machine learning and deep learning software to analyze ophthalmic images, or images taken of the eye. My main project entails predicting future outcomes of cornea transplants. More recently, my lab and our collaborators have ventured into the field of Dry Eye Disease to design new metrics for defining the disease progression of Meibomian Gland Dysfunction.\n              Outside of research I enjoy staying active by running, biking, hiking, weightlifting, and I am always up for the challenge of trying to cook a new recipe.\n              \n              \n              Education\n              Case Western Reserve University | Cleveland, OH\n              Ph.D. in Biomedical Engineering | September 2018 - Present\n              The University of Pittsburgh | Pittsburgh, PA\n              B.S. in Chemical Engineering | September 2014 - April 2018\n              \n              \n              Experience\n              The Whole Kid | High School STEM Tutor | April 2020 - Present\n              EQT | Productions Field Engineering Intern | May - August 2016\n              \n              \n              CV\n              CV\n              \n              \n              Contact\n              Email: nmj14@case.edu\n              269-832-2868\n              \n            \n        \n      \n    \n\n    \n    \n    ",
+      "last_modified": "2021-05-14T09:09:06-04:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}
