@@ -4,7 +4,6 @@ description: |
   Thank you for visiting my website! I am very excited to be finishing up the last of my coursework as a PhD student. This summer I plan on helping to manage a team of biomedical and software engineers to develop a computer program that will display, annotate, and automatically analyze images of disease eyes for clinical research studies.
 author:
   - name: Naomi
-date: 05-14-2021
 output:
   distill::distill_article:
     self_contained: false
