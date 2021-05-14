@@ -1,0 +1,49 @@
+---
+title: "Naomi Joseph"
+image: "Naomi_Joseph_headshot.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/naomi-joseph-3aa687113/"
+site: distill::distill_website
+listing: posts
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+I am a PhD candidate studying biomedical engineering at Case Western
+Reserve University. My research focuses on developing machine learning and deep 
+learning software to analyze ophthalmic images, or images taken of the eye. My 
+main project entails predicting future outcomes of cornea transplants. More recently, 
+my lab and our collaborators have ventured into the field of Dry Eye Disease to 
+design new metrics for defining the disease progression of Meibomian Gland Dysfunction. 
+
+Outside of research I enjoy staying active by running, biking, hiking, weightlifting, 
+and I am always up for the challenge of trying to cook a new recipe.
+
+## Education
+
+**Case Western Reserve University** | Cleveland, OH
+
+Ph.D. in Biomedical Engineering | September 2018 - Present
+
+**The University of Pittsburgh** | Pittsburgh, PA
+
+B.S. in Chemical Engineering | September 2014 - April 2018
+
+## Experience
+
+**The Whole Kid** | High School STEM Tutor | April 2020 - Present
+
+**EQT** | Productions Field Engineering Intern | May - August 2016
+
+## CV
+
+[**CV**](njdocs/Naomi_Joseph_CV.pdf)
+
+## Contact
+
+Email: nmj14\@case.edu
+
+269-832-2868

@@ -1,0 +1,15 @@
+name: "."
+title: "Naomi Joseph"
+description: |
+  Naomi Joseph
+output_dir: "docs"
+theme: postcards.css
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Blog"
+      href: blog.html
+output: distill::distill_article

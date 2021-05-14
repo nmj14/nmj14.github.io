@@ -1,0 +1,22 @@
+---
+title: "Research Projects"
+description: |
+  Below are desriptions of my most recent projects and corresponding articles.
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Machine Learning Prediction or Cornea Transplant Outcome
+
+We quantified over 190 novel imaging and physiology-related features from corneal EC images and used them to train and test machine learning algorithms to predict future outcomes of cornea transplants. The results were compared to the current state-of-the-art metrics for quantitative analysis.
+
+[**Proceeding**](njdocs/prediction_paper.pdf)
+
+
+# Deep Learning Segmentation of Corneal Endothelial Cell (EC) Images
+
+I utilized various softwares including *AMIRA*, *ImageJ*, *GIMP*, and MATLAB to reduce varying illumination gradients of EC images. After pre-processing images, the deep neural network U-Net was implemented in *Python* to perform image based cell segmentations. In order to clean up the segmentation predictions, a post-processing pipeline developed in MATLAB was applied to generate binary segmentations of cells and their borders.
+
+[**Publication**](njdocs/segmentation_paper.pdf)
